@@ -1,16 +1,18 @@
-/*  your css code here. If applicable */
-
-      .card img {
-         border-radius: 8px;
+ img {
+         width: 100%;
+         height: auto;
          cursor: pointer;
       }
 
       .card {
-         border-radius: 8px;
+         margin: 10px;
+         width: 18rem;
       }
 
-      h6,
-      p {
-         text-align: center;
+      .modal-dialog {
+         max-width: 80%;
       }
-	   
+
+      .modal-img {
+         width: 100%;
+      }
